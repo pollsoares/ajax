@@ -1,0 +1,15 @@
+{
+    "name": "soares/ajax",
+    "description": "curso de php com ajax",    
+    "authors": [
+        {
+            "name": "pollsoares",
+            "email": "soares.si@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "app\\":"app"
+        }
+    }
+}
